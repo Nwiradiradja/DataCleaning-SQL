@@ -9,4 +9,4 @@ Analyze Sales data, Extract the data from the database using SQL. Prepare data f
 * Dealing with NULLs in SQL
 
 ## Tools Used
-* Microsfot SQL Server Management
+* Microsoft SQL Server Management
