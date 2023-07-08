@@ -8,4 +8,6 @@
 
 Image 1:
 ![](https://github.com/Nwiradiradja/DataCleaning-SQL/blob/main/Clean_Data_Case_Statement/CleanData1.png?raw=true)
+
+Image 2:
 ![](https://github.com/Nwiradiradja/DataCleaning-SQL/blob/main/Clean_Data_Case_Statement/CleanData2.png?raw=true)
