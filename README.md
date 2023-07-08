@@ -5,7 +5,7 @@ Analyze Sales data, Extract the data from the database using SQL. Prepare data f
 
 ## Tasks
 * [Detect and remove duplicates](https://github.com/Nwiradiradja/DataCleaning-SQL/tree/main/Detect_Remove_Duplicates)
-* Clean data with case statements
+* [Clean data with case statements](https://github.com/Nwiradiradja/DataCleaning-SQL/tree/main/Clean_Data_Case_Statement)
 * Dealing with NULLs in SQL
 
 ## Tools Used
