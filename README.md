@@ -7,3 +7,6 @@ Analyze Sales data, Extract the data from the database using SQL. Prepare data f
 * Detect and remove duplicates
 * Clean data with case statements
 * Dealing with NULLs in SQL
+
+## Tools Used
+* Microsfot SQL Server Management
