@@ -23,4 +23,6 @@ Analyze Sales data, Extract the data from the database using SQL. Prepare data f
 * Orders and Order_Details: Sales Order transactions taking place between the customers & the company
 
 Example diagram for Northwind:
+![](https://github.com/Nwiradiradja/DataCleaning-SQL/blob/main/NorthwindDM.png?raw=true)
 
+### *** Diagram and about from yugabyteDB ***
